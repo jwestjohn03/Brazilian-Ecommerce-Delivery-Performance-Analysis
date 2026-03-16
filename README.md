@@ -9,6 +9,14 @@ This project analyzes the Brazilian Olist e-commerce dataset to identify trends 
 -  Power BI – data visualization and dashboard creation
 -  SQL – aggregations and analysis queries
 
+## Methodology
+1. Loaded the raw CSV files into PostgreSQL.
+2. Built relational tables and validated row counts.
+3. Created SQL queries and views to transform the data into analytical tables.
+4. Connected PostgreSQL to Power BI.
+5. Built dashboards to analyze order demand, logistics performance, and customer satisfaction.
+6. Derived business insights and recommendations from the visualizations.
+
 ## Insights
 -  Delivery speed has a strong impact on customer review scores.
 -  Very large (high volume) or heavy packages experience noticeably longer delivery times.
